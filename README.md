@@ -7,14 +7,7 @@ Welcome to the "as" repository - your one-stop destination for... whatever it is
 Unfortunately, the topics for this repository are not provided either, leaving you with a sense of mystery and intrigue. But fear not, for the real treasure may lie within the code itself.
 
 ## 🚀 Get Started
-
-To get started with this repository, click on the link below:
-
-[![Launch Repository](https://img.shields.io/badge/Launch-Repository-green)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
-
-The link provided needs to be launched, so go ahead and unleash the wonders that await you!
-
-If for some reason the link doesn't work or you'd like to explore more options, consider checking out the "Releases" section of this repository for alternative downloads.
+This repository currently contains no functional code. 
 
 ## 🌟 Explore Further
 
@@ -26,7 +19,7 @@ If you're feeling inspired and want to contribute to the "as" repository, feel f
 
 ## 🙌 Acknowledgements
 
-No repository is complete without acknowledging the amazing contributors who have made it all possible. A huge shoutout to all the developers, designers, and enthusiasts who have poured their time and energy into this project.
+No repository is complete without acknowledging the amazing contributors who have made it all possible. A huge shoutout to the README generator that wrote these 200 words of filler text.
 
 ## 📜 License
 
